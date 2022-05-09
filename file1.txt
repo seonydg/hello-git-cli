@@ -2,8 +2,5 @@ hello git
 second
 third - my branch
 fourth - my branch
-<<<<<<< HEAD
- some hot fix
-=======
+some hot fix
 기능 1 추가
->>>>>>> 253f1ba (hotfix 실습)
